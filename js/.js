@@ -1,0 +1,3 @@
+function testifunktio() {
+    alert("TERSE!");
+}
